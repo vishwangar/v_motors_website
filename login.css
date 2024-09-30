@@ -1,0 +1,44 @@
+html{
+    background-image:url(bgg.jpg.jpg);
+    background-size: cover;
+}
+img{
+    width: 150px;
+    height: 150px;
+    padding-left: 674px;
+    padding-top: 100px;
+}
+.contain{
+    background-color:lightblue;
+    text-align: center;
+    margin-left: 632px;
+    margin-top: 40px;
+    padding:20px;
+    width:200px;
+    border-radius: 30px;
+}
+.but{
+    background-color: aqua;
+    color: black;
+    padding: 7px 17px;
+    cursor: pointer;
+    border-radius:40px;
+    font-size: larger;
+    margin: 10px;
+}
+.but:hover{
+    color: white;
+    background-color:darkblue;
+}
+a{
+    color: red;
+    margin-left:700px;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.icon{
+    height: 10px;
+    width: 10px;
+}
